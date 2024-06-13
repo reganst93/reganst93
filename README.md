@@ -1,6 +1,6 @@
 # Hola 👋, soy Stephania Jasmin Bilbao la Vieja Peñaranda
 
-Soy una apasionada de la tecnología con una gran determinación para aprender y crecer en la industria. Mi enfoque metódico para resolver problemas, combinado con mi amor por la lectura y edición de mangas, me permite abordar los desafíos con creatividad y precisión.
+Soy una apasionada de la tecnología con una determinación inquebrantable para aprender y crecer en la industria. Soy de Santiago/Chile, y estoy actualmente como desarrolladora Full Stack Python Junior
 
 He tenido la oportunidad de ganar becas en dos bootcamps, uno de Java y otro de Python, lo que ha fortalecido significativamente mis habilidades en estos lenguajes. Estoy comprometida a perfeccionar cada día mis conocimientos en estos y otros lenguajes de programación.
 
